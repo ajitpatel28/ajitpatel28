@@ -1,7 +1,7 @@
 Hola I'M AJIT PATEL
 
-- 🔭 I’m currently working on Real TIme Face Detection app using FLutter
-- 🌱 I’m currently learning flutter
+- 🔭 I’m currently working on React Js Projects
+- 🌱 I’m currently learning React Js
 - 👯 I’m looking for Internships to gain experience
 - 🤔 I’m looking for help with cybersecurity stuffs
 - 💬 Ask me about deep web
