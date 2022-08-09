@@ -1,7 +1,7 @@
 Hola I'M AJIT PATEL
 
-- 🔭 I’m currently working on React Js Projects
-- 🌱 I’m currently learning React Js
+- 🔭 I’m currently working on Web development Projects
+- 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking for Internships to gain experience
 - 🤔 I’m looking for help with cybersecurity stuffs
 - 💬 Ask me about deep web
