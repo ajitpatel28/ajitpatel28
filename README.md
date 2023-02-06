@@ -26,6 +26,19 @@ Feel free to visit [my repositories](https://github.com/ajitpatel28?tab=reposito
 | **Database** | ![SQL badge](https://img.shields.io/badge/sql-2d00a0?style=for-the-badge&logo=sqlite&logoColor=white)
 | **OS** |![Microsoft badge](https://img.shields.io/badge/windows-073763?style=for-the-badge&logo=windows&logoColor=blue)
 | **Tools & Platform** | ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tor badge](https://img.shields.io/badge/TOR-c90076?style=for-the-badge&logo=torbrowser&logoColor=white)![Obs badge](https://img.shields.io/badge/OBS-990000?style=for-the-badge&logo=OBSstudio&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+<br/>
+
 ---
 ## <📊> ɢɪᴛ ꜱᴛᴀᴛꜱ </📊>
  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitpatel28&theme=blue-green"/>
