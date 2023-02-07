@@ -35,7 +35,7 @@ Feel free to visit [my repositories](https://github.com/ajitpatel28?tab=reposito
 | ----------- | ------------ |
 ---
 ![](./profile-3d-contrib/profile-night-green.svg)
-![Snake animation](https://github.com/ajitpatel28/ajitpatel28/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ajitpatel28/ajitpatel28/blob/main/profile-3d-contrib/github-contribution-grid-snake.svg)
 
 
 ## <📫> ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ </📫>
