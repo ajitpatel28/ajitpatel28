@@ -10,7 +10,7 @@ A README made with **Markdown**, *[great ideas](https://github.com/cristiancmois
 ## <> ᴀʙᴏᴜᴛ ᴍᴇ </>
 #### Hi i'm  Ajit Patel and I'm an Indian **developer**. I'm here on GitHub to:
 ***- Share my codes;***
-***- Learn more about cybersecurity,front-end and back end technologies;***
+***- Learn more about Android, cybersecurity, front-end and back-end technologies;***
 ***- Contribute to third-party projects;***
 ***- Get inspiration and new ideas!***
 
